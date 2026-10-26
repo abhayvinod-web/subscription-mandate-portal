@@ -16,7 +16,6 @@ import {
   Sparkles,
   Smartphone,
   ExternalLink,
-  Github,
   ArrowUpRight
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
